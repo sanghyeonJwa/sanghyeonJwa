@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=sanghyeon's%20Github&fontSize=70&animation=fadeIn&fontAlign=59&fontAlignY=38)
 
 <br>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Hi!+I'm+Sanghyeon+Jwa!" alt="Typing SVG" /></a>
 
 안녕하세요! 백엔드 개발자로 성장 중인 좌상현 입니다. <br>
 웹 개발에 관심이 많습니다!
+
 <br>
 
 ### 🛠 Studying..
@@ -28,14 +28,16 @@
 <br>
 
 ### 📊 Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sanghyeonJwa&show_icons=true&theme=radical" width="45%" />
-  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgus4610)](https://solved.ac/tkdgus4610)
-</p>
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sanghyeonJwa&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgus4610" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
