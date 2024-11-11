@@ -5,7 +5,7 @@
   
 </p>
 
----
+<br>
 
 ### 🛠 Tech Stack
 <p>
@@ -17,14 +17,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
+<br>
 
 ### 🌱 Currently Learning
 - Building responsive frontends with **React**
 - Exploring advanced **Spring Framework** modules
 - Optimizing **database design** and **query performance**
 
----
+<br>
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyeonJwa&layout=compact&theme=radical" width="37%" />
 </p>
 
----
+<br>
 
 ### 📫 Reach Me
 - **Email**: tkdgus4610@gmail.com
