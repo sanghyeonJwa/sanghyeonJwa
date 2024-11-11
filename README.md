@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=sanghyeon's%20Github&fontSize=70&animation=fadeIn&fontAlign=59&fontAlignY=38)
 
-<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Hi!+I'm+Sanghyeon+Jwa!" alt="Typing SVG" /></a>
 
 안녕하세요! 백엔드 개발자로 성장 중인 좌상현 입니다. <br>
