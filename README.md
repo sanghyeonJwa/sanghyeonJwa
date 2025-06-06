@@ -50,9 +50,6 @@
 
 <br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=tkdgus4610)](https://solved.ac/{handle})
-
 ### 📫 Reach Me
 - **Email**: tkdgus4610@gmail.com
 
